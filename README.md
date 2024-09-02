@@ -44,7 +44,7 @@ Here you can download updated Electronic-Certification Documents for goldshell M
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KD BOX II</td>
         <td rowspan="10"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2405200314S00201C.pdf>ENS2405200314S00201C.pdf</a></td> 
-        <td rowspan="10">/</td> 
+        <td rowspan="10"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408260197E00101C.pdf>ENS2408260197E00101C.pdf</td> 
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">CK BOX II</td>
@@ -81,7 +81,7 @@ Here you can download updated Electronic-Certification Documents for goldshell M
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">MINI DOGE III PLUS</td>
         <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2407040061S00101C.pdf>ENS2407040061S00101C.pdf</a></td> 
-        <td>/</td> 
+        <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2407040061E00301C.pdf>ENS2407040061E00301C.pdf</td> 
 	</tr>
     <tr>
         <td rowspan="5" style="text-align: center; vertical-align: middle;">LITE</td>
