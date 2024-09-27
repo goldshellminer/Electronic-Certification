@@ -105,6 +105,24 @@ Here you can download updated Electronic-Certification Documents for goldshell M
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">LB LITE</td>
 	</tr>
+	<tr>
+        <td rowspan="3" style="text-align: center; vertical-align: middle;">ECHO</td>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">E-KA1M</td>
+	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2408270023E00201C.pdf>ENS2408270023E00201C.pdf</a>
+        </td>
+	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408270023E00301C.pdf>ENS2408270023E00301C.pdf</td>  
+	</tr >
+    <tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">E-AL1M</td>
+	    <td> </td>
+	    <td> </td>  
+	</tr >
+    <tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">E-DG1M</td>
+	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2408270023E00501C.pdf>ENS2408270023E00501C.pdf</a>
+        </td>
+	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408270023E00601C.pdf>ENS2408270023E00601C.pdf</a></td>  
+	</tr >
     <tr>
         <td rowspan="14" style="text-align: center; vertical-align: middle;">MAX</td>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KD5</td>
