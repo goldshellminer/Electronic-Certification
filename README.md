@@ -114,8 +114,6 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr >
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">E-AL1M</td>
-	    <td> </td>
-	    <td> </td>  
 	</tr >
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">E-DG1M</td>
