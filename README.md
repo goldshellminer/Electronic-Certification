@@ -10,7 +10,7 @@ Here you can download updated Electronic-Certification Documents for goldshell M
         <th >FCC</th>
 	</tr >
 	<tr>
-        <td rowspan="21" style="text-align: center; vertical-align: middle;">BOX</td>
+        <td rowspan="23" style="text-align: center; vertical-align: middle;">BOX</td>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">CK BOX</td>
 	    <td rowspan="5"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2110150002E00101C.pdf</a>
         </td>
@@ -75,9 +75,16 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KA BOX PRO</td>
-        <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2405230041E00301C.pdf>ENS2405230041E00301C.pdf</a></td> 
-        <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2405230041E00201C.pdf>ENS2405230041E00201C.pdf</a></td> 
+        <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2409300064E00201C.pdf>ENS2409300064E00201C.pdf</a>
+		<a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2409300064S00301C.pdf>ENS2409300064S00301C.pdf</a></td> 
+        <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2409300064E00101C.pdf>ENS2409300064E00101C.pdf</a></td> 
 	</tr>
+	<tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX II PRO</td>
+	</tr>	
+	<tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX III</td>
+	</tr>	
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">MINI DOGE III PLUS</td>
         <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2407040061S00101C.pdf>ENS2407040061S00101C.pdf</a></td> 
