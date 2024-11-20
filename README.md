@@ -8,6 +8,7 @@ Here you can download updated Electronic-Certification Documents for goldshell M
         <th >Miner/Watch/PSU</th>
         <th >CE</th>
         <th >FCC</th>
+		<th >LVD</th>
 	</tr >
 	<tr>
         <td rowspan="23" style="text-align: center; vertical-align: middle;">BOX</td>
@@ -76,8 +77,9 @@ Here you can download updated Electronic-Certification Documents for goldshell M
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KA BOX PRO</td>
         <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2409300064E00201C.pdf>ENS2409300064E00201C.pdf</a>
-		<a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2409300064S00301C.pdf>ENS2409300064S00301C.pdf</a></td> 
+		</td> 
         <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2409300064E00101C.pdf>ENS2409300064E00101C.pdf</a></td> 
+		<td rowspan="3"> <a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2409300064S00301C.pdf>ENS2409300064S00301C.pdf</a></td>
 	</tr>
 	<tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX II PRO</td>
@@ -118,6 +120,7 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2408270023E00201C.pdf>ENS2408270023E00201C.pdf</a>
         </td>
 	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408270023E00301C.pdf>ENS2408270023E00301C.pdf</td>  
+		 <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2408270023S00101C.pdf>ENS2408270023S00101C.pdf</td>  
 	</tr >
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">E-AL1M</td>
@@ -127,9 +130,10 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2408270023E00501C.pdf>ENS2408270023E00501C.pdf</a>
         </td>
 	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408270023E00601C.pdf>ENS2408270023E00601C.pdf</a></td>  
+		 <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2408270023S00401C.pdf>ENS2408270023S00401C.pdf</a></td> 
 	</tr >
     <tr>
-        <td rowspan="14" style="text-align: center; vertical-align: middle;">MAX</td>
+        <td rowspan="16" style="text-align: center; vertical-align: middle;">MAX</td>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KD5</td>
 	    <td rowspan="4"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ES210409021E.pdf>ES210409021E.pdf</a>
         </td>
@@ -161,9 +165,10 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KD6 SE</td>
-	    <td rowspan="6"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2204080110E00401C.pdf>ENS2204080110E00401C.pdf</a>
+	    <td rowspan="8"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2411120147E00201C.pdf>ENS2411120147E00201C.pdf</a>
         </td>
-	    <td rowspan="6"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2204080110E00601C.pdf>ENS2204080110E00601C.pdf</a></td> 
+	    <td rowspan="8"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2411120147E00101C.pdf>ENS2411120147E00101C.pdf</a></td> 
+		<td rowspan="8"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2411120147S00301C.pdf>ENS2411120147S00301C.pdf</a></td> 
 	</tr >
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">LT6</td>
@@ -179,6 +184,12 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">HS MAX</td>
+	</tr>
+	 <tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">KA MAX</td>
+	</tr>
+	 <tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">DG MAX</td>
 	</tr>
     <tr>
         <td rowspan="3" style="text-align: center; vertical-align: middle;">Accessory</td>
