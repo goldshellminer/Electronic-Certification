@@ -9,9 +9,10 @@ Here you can download updated Electronic-Certification Documents for goldshell M
         <th >CE</th>
         <th >FCC</th>
 		<th >LVD</th>
+		<th >ROHS</th>
 	</tr >
 	<tr>
-        <td rowspan="23" style="text-align: center; vertical-align: middle;">BOX</td>
+        <td rowspan="25" style="text-align: center; vertical-align: middle;">BOX</td>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">CK BOX</td>
 	    <td rowspan="5"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2110150002E00101C.pdf</a>
         </td>
@@ -44,8 +45,9 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KD BOX II</td>
-        <td rowspan="10"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2405200314S00201C.pdf>ENS2405200314S00201C.pdf</a></td> 
-        <td rowspan="10"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408260197E00101C.pdf>ENS2408260197E00101C.pdf</td> 
+        <td rowspan="11"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2501230037E00201C.pdf>ENS2501230037E00201C.pdf</a></td> 
+        <td rowspan="11"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2501230037E00101C.pdf>ENS2501230037E00101C.pdf</a></td> 
+		  <td rowspan="11"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2501230037S00301C.pdf>ENS2501230037S00301C.pdf</a></td> 
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">CK BOX II</td>
@@ -74,12 +76,15 @@ Here you can download updated Electronic-Certification Documents for goldshell M
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX II</td>
 	</tr>
+	<tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">AE BOX</td>
+	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KA BOX PRO</td>
-        <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2409300064E00201C.pdf>ENS2409300064E00201C.pdf</a>
+        <td rowspan="4"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2502060083E00201C.pdf>ENS2502060083E00201C.pdf</a>
 		</td> 
-        <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2409300064E00101C.pdf>ENS2409300064E00101C.pdf</a></td> 
-		<td rowspan="3"> <a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2409300064S00301C.pdf>ENS2409300064S00301C.pdf</a></td>
+        <td rowspan="4"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2502060083E00101C.pdf>ENS2502060083E00101C.pdf</a></td> 
+		<td rowspan="4"> <a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2502060083S00301C.pdf>ENS2502060083S00301C.pdf</a></td>
 	</tr>
 	<tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX II PRO</td>
@@ -87,6 +92,9 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	<tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX III</td>
 	</tr>	
+	<tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">AE BOX PRO</td>
+	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">MINI DOGE III PLUS</td>
         <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2407040061S00101C.pdf>ENS2407040061S00101C.pdf</a></td> 
@@ -120,7 +128,8 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2408270023E00201C.pdf>ENS2408270023E00201C.pdf</a>
         </td>
 	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2408270023E00301C.pdf>ENS2408270023E00301C.pdf</td>  
-		 <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2408270023S00101C.pdf>ENS2408270023S00101C.pdf</td>  
+		 <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2408270023S00101C.pdf>ENS2408270023S00101C.pdf</td> 
+		   <td rowspan="3"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/ROHS/EDG2412230055C00101C.pdf>EDG2412230055C00101C.pdf</a></td> 
 	</tr >
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">E-AL1M</td>
