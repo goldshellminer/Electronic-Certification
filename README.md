@@ -12,7 +12,7 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 		<th >ROHS</th>
 	</tr >
 	<tr>
-        <td rowspan="26" style="text-align: center; vertical-align: middle;">BOX</td>
+        <td rowspan="25" style="text-align: center; vertical-align: middle;">BOX</td>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">CK BOX</td>
 	    <td rowspan="5"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2110150002E00101C.pdf>ENS2110150002E00101C.pdf</a>
         </td>
@@ -81,10 +81,10 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">KA BOX PRO</td>
-        <td rowspan="5"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2502130149E00201C.pdf>ENS2502130149E00201C.pdf</a>
+        <td rowspan="4"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/ENS2502130149E00201C.pdf>ENS2502130149E00201C.pdf</a>
 		</td> 
-        <td rowspan="5"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2502130149E00101C.pdf>ENS2502130149E00101C.pdf</a></td> 
-		<td rowspan="5"> <a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2502130149S00301C.pdf>ENS2502130149S00301C.pdf</a></td>
+        <td rowspan="4"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/ENS2502130149E00101C.pdf>ENS2502130149E00101C.pdf</a></td> 
+		<td rowspan="4"> <a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/ENS2502130149S00301C.pdf>ENS2502130149S00301C.pdf</a></td>
 	</tr>
 	<tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">AL BOX II PRO</td>
@@ -94,9 +94,6 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	</tr>	
 	<tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">AE BOX PRO</td>
-	</tr>
-	<tr>
-	    <td style="text-align: center; vertical-align: middle; width: 150px">AE BOX II</td>
 	</tr>
     <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">MINI DOGE III PLUS</td>
