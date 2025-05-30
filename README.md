@@ -203,6 +203,35 @@ Here you can download updated Electronic-Certification Documents for goldshell M
 	 <tr>
 	    <td style="text-align: center; vertical-align: middle; width: 150px">DG MAX</td>
 	</tr>
+	 <tr>
+        <td rowspan="4" style="text-align: center; vertical-align: middle;">BYTE</td>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">MINER</td>
+	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/LCSA02135117E_AttestationofCompliance.pdf>LCSA02135117E_AttestationofCompliance.pdf</a>
+        </td>
+	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/FCC-2BOMR-BYTE,Grant-DTS.pdf>FCC-2BOMR-BYTE,Grant-DTS.pdf</a></td>  
+		<td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/LCSA02135118S.pdf>LCSA02135118S.pdf</a></td>
+		<td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/ROHS/LCSA02135119R-RoHS.pdf>LCSA02135119R-RoHS.pdf</a></td>
+	</tr >
+    <tr>
+	    <td  style="text-align: center; vertical-align: middle; width: 150px">AE CARD</td>
+	    <td rowspan="2" ><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/LCSA02135123E_Cert.pdf>LCSA02135123E_Cert.pdf</a>
+        </td>
+	    <td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/LCSA02135122E_FCC47CFRPart15,SubpartBAC.pdf>LCSA02135122E_FCC47CFRPart15,SubpartBAC.pdf</a></td>  
+		<td rowspan="2">/</td>
+	 	<td rowspan="2"><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/ROHS/LCSA02135124R-RoHS.pdf>LCSA02135124R-RoHS.pdf</a></td>
+	 <tr>
+	    <td  style="text-align: center; vertical-align: middle; width: 150px">DG CARD</td> 	
+	</tr >
+    <tr>
+	    <td style="text-align: center; vertical-align: middle; width: 150px">140w Charger</td>
+	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/S-TR-101B-1X140-CYCE-EMCKW20250519.pdf>S-TR-101B-1X140-CYCE-EMCKW20250519.pdf</a><br>
+		<a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/CE/S-TR-101B-1X140-CYUKCA-EMCKW20250519.pdf>S-TR-101B-1X140-CYUKCA-EMCKW20250519.pdf</a>
+        </td>
+		  <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/FCC/S-TR-101B-1X140-CYFCCKW20250519.pdf>S-TR-101B-1X140-CYFCCKW20250519pdf</a></td>
+	    <td><a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/S-TR-101B-1X140-CYCE-LVDKW20250519.pdf>S-TR-101B-1X140-CYCE-LVDKW20250519.pdf</a><br>
+		<a href=https://raw.githubusercontent.com/goldshellminer/Electronic-Certification/main/LVD/S-TR-101B-1X140-CYUKCA-LVDKW20250519.pdf>S-TR-101B-1X140-CYUKCA-LVDKW20250519.pdf</a></td> 
+		 <td>/</td>
+	</tr >
     <tr>
         <td rowspan="3" style="text-align: center; vertical-align: middle;">Accessory</td>
 	    <td rowspan="3" style="text-align: center; vertical-align: middle; width: 150px">GS WATCH</td>
